@@ -24,6 +24,11 @@ With the group of younger students (ages 10-12), we got through the full set of 
 
 The same material was comprehensible for students of different ages and experience levels - the only notable difference was the amount of time it took for each age group.
 
+Raspberry Rogue game code can be found here:
+
+https://github.com/kcunning/Katie-s-Rougish-PyGame
+
+
 Teaching tools
 =======
 
