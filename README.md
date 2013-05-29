@@ -55,4 +55,7 @@ The one thing that we asked was that volunteers wait until break times to make r
 Breaks
 =======
 
-Build in plenty of breaks and give students some hack time to experiment with their new skills
+Build in plenty of breaks and give students some hack time to experiment with their new skills.
+
+Without any bult-in testing, this break time is also a great opportunity to observe students and see what they're hacking on as a comprehension check.
+
