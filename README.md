@@ -59,3 +59,7 @@ Build in plenty of breaks and give students some hack time to experiment with th
 
 Without any bult-in testing, this break time is also a great opportunity to observe students and see what they're hacking on as a comprehension check.
 
+Release form
+============
+
+A sample release form has been included in this repository. It's a good idea to send these out beforehand, so the parents know what is expected of them and their child. Make sure to have a stack of blank ones on hand, though, for people that forget theirs.
