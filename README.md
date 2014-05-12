@@ -63,3 +63,10 @@ Release form
 ============
 
 A sample release form has been included in this repository. It's a good idea to send these out beforehand, so the parents know what is expected of them and their child. Make sure to have a stack of blank ones on hand, though, for people that forget theirs.
+
+Video
+=====
+
+At PyCon 2014, Katie Cunningham and I did a talk that elaborates on many of these points and gives some additional information that may help you to plan your own Young Coders class:
+
+"The Young Coder: Let's Learn Python" on PyVideo: http://pyvideo.org/video/2570/the-young-coder-lets-learn-python
