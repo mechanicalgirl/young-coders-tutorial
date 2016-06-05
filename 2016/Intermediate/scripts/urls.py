@@ -14,7 +14,8 @@ def test_urls():
     for line in lines:
         try:
             urllib.request.urlopen(line)
-            v.write(line)
+            v.write(line + "\n")
+            v.flush()
         except urllib.error.URLError as error:
             print(line, error)
         except urllib.error.HTTPError as error:
