@@ -16,12 +16,13 @@ def get_local_weather():
     for place in places:
         latitude, longitude = places[place][0], places[place][1]
         weather_url = weather_base_url + "lat=" + latitude + "&lon=" + longitude
-
+        # Show the URL we use to get the weather data. (Paste this URL into your browser!)
         # print("Getting the current weather for", place, "at", weather_url, ":")
 
         page_response = urllib.request.urlopen(weather_url).read()
         weather_data = json.loads(page_response.decode('utf-8'))
 
+        # (Ugly) print the raw JSON data that we get back from the URL.
         # print(weather_data)
 
         forecast = parse_weather_data(weather_data)
@@ -31,6 +32,10 @@ def get_local_weather():
             "is", forecast['temp'], "degrees")
 
 def parse_weather_data(json_object):
+    # What type of object is json_object?
+    # print(type(json_object))
+    
+    # Pretty Print the JSON data that we get back from the URL.
     # pprint(json_object)
 
     weather_obj = json_object
