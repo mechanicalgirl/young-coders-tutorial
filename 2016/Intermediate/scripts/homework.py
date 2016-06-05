@@ -8,8 +8,8 @@ def test_problems():
     for line in lines:
         answer = eval(line)
         # print(line, "=", answer)
-        # print line + " = " + answer
-        print str(line) + " = " + str(answer)
+        # print(line + " = " + answer)
+        print(str(line) + " = " + str(answer))
 
 def main():
     test_problems()
