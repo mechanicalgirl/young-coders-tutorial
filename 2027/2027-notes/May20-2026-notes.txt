@@ -1,0 +1,29 @@
+"Young Coders", introductory Python class at PyCon US 2027
+
+Phillip Redd, Director of Programs 
+PRedd@bgclublb.org | (562) 595-5945 ext. 237
+
+
+Good morning Mr. Redd - 
+
+I apologize for this email equivalent of a cold call, but I was hoping to strike up a conversation about a class that I think we could offer to your STEM-focused kids next year. :D 
+
+Some background: I'm a professional software developer and a member of the Python programming community. Every year, we hold a national conference for the community in different cities around the U.S., and for 2026 and 2027 that's going to be at the Long Beach Convention Center. From 2012-2019, we taught a program called "Young Coders" that brought kids aged 9-12 in for an introductory class on the Python programming language. That class was unfortunately scuttled when Covid came along, but we're planning to bring it back for the 2027 conference, so I am looking for students. :D
+
+The class will take place in a classroom at the conference center. We typically run one class on each weekend day of the conference, and look for a class size of around 15 students, so a total of 30. We'll provide meals, computer equipment, and plenty of adult supervision. We also love having volunteers from the community to assist with the class, so if any of your staff wanted to join in, they'd be welcome.
+
+Enrollment in the class would include passes to the conference for the students, their parents, and volunteers - the content of the conference presentations might be a bit advanced for beginner students, but they'd get to meet professional programmers and learn all about what's happening in our industry in a safe, family-friendly environment. I'm also working on putting together perks from some of our sponsors, such as 
+
+If any of this sounds interesting, I'd love to talk more! 
+
+This year's PyCon has already started - the main conference presentations begin tomorrow and run through Sunday afternoon. If you'd like to learn a little more about the conference programming and the Python Software Foundation, its organizers, take a look at the official conference web site:
+
+https://us.pycon.org/2026/
+https://us.pycon.org/2026/schedule/talks/
+https://us.pycon.org/2026/about/psf/
+
+I look forward to hearing from you!
+
+Thank you for your time,
+
+- Barbara Shaurette
